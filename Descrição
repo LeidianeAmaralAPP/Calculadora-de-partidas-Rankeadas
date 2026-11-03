@@ -1,0 +1,43 @@
+
+# 🔥 DESAFIO: CLASSIFICADOR DE PATENTES — FREE FIRE CS RANQUEADO
+
+## 🎮 Sobre o projeto
+
+Neste projeto, desenvolvi um Classificador de Patentes inspirado no modo CS Ranqueado do jogo Free Fire, utilizando a linguagem JavaScript.
+
+O objetivo foi criar um programa capaz de armazenar nomes de jogadores, suas respectivas quantidades de vitórias e derrotas, calcular o saldo de partidas e classificá-los automaticamente conforme seu desempenho.
+
+## 🏆 Patentes disponíveis
+
+O sistema possui oito níveis de classificação:
+
+1. Bronze
+2. Prata
+3. Ouro
+4. Platina
+5. Diamante
+6. Mestre
+7. Elite
+8. Desafiante
+
+## ⚙️ Funcionalidades
+
+- Cadastro de personagens e jogadores.
+- Registro de vitórias e derrotas.
+- Cálculo automático do saldo de partidas.
+- Classificação automática por patentes.
+- Exibição dos resultados no console.
+
+## 💻 Tecnologias utilizadas
+
+- JavaScript
+- Variáveis e operadores.
+- Estruturas condicionais.
+- Laços de repetição.
+- Funções e retorno de valores.
+
+## 📚 Objetivo de aprendizagem
+
+Este projeto foi desenvolvido como parte do desafio prático da DIO, com o propósito de fortalecer os conhecimentos em lógica de programação e desenvolver habilidades utilizando JavaScript.
+
+A temática do Free Fire foi escolhida para tornar o aprendizado mais dinâmico e divertido.
